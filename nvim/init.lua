@@ -22,7 +22,8 @@ vim.opt.showmode=false
 vim.opt.ignorecase=true
 vim.opt.smartcase=true
 
-vim.opt.signcolumn="yes"
+--vim.opt.signcolumn="yes"
+
 
 vim.opt.splitright=true
 vim.opt.splitbelow=true
